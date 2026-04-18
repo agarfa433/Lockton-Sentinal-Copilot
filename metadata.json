@@ -1,0 +1,8 @@
+{
+  "name": "Lockton Sentinel Copilot",
+  "description": "An AI-powered travel safety and risk management assistant for business travelers, designed for the HackKU Lockton Track.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
